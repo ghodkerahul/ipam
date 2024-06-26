@@ -13,7 +13,7 @@ description: "IPAM - Azure IP Address Management made easy!"
 ---
 -->
 
-# Azure IPAM
+# Azure IPAM test
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
